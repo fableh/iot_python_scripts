@@ -10,8 +10,12 @@
 
 ![Alt text](pics/cert_download.PNG?raw=true "Certificate Download")
 
-![Alt text](pics/pem.PNG?raw=true "Certificate Download")
+![Alt text](pics/pem.PNG?raw=true "choose pem")
 
 2. Note the "secret"
 
-![Alt text](pics/secret.PNG?raw=true "Certificate Download")
+![Alt text](pics/secret.PNG?raw=true "secret")
+
+3. Execute the follwoing commands to transorm the "pem" file for the usage in the python script
+
+![Alt text](pics/cmd.PNG?raw=true "openssl commands")
